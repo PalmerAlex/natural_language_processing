@@ -1,28 +1,3 @@
-
-```
-```
-Repository including Code and Utils:
-```
-https://csgitlab.reading.ac.uk/jz015642/text-mining-and-natural-language-processing-coursework/-/tree/main/
-
-
-## Contents
-
-- 1.0 Abstract
-- 2.0 Introduction
-- 3.0 Methodology
-   - 3.1 NLP
-   - 3.2 Machine learning
-- 4.0 Development, Results, and discussion
-   - 4.1 The pipeline
-   - 4.2 Test-Train Split
-   - 4.2 NLP analysis
-   - 4.3 Classifier results
-   - 4.4 Evaluation and Error analysis
-- 5.0 Conclusion and future work
-- 6.0 References and Acknowledgements
-
-
 ## 1.0 Abstract
 
 The meaning of words in natural languages are fully reflected by their context and contextual relations.
