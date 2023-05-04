@@ -1,16 +1,4 @@
-```
-Module Code: CS3TM
-Assignment report Title: Technical report
-Student Number: 29015642
-Data set information derived from student number:
-```
-```
-Date (when the work completed): 14//03/
-Actual hrs spent for the assignment: 15h
-Assignment evaluation (3 key points):
- 1 Coursework guidelines were a big vague.
- 2 I would have enjoyed the coursework more if we had to code a lot more.
- 3 NLP was very interesting to learn and apply practically.
+
 ```
 ```
 Repository including Code and Utils:
